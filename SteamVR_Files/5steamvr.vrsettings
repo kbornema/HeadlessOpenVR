@@ -1,0 +1,33 @@
+{
+   "GpuSpeed" : {
+      "gpuSpeed0" : 914,
+      "gpuSpeed1" : 915,
+      "gpuSpeed2" : 913,
+      "gpuSpeed3" : 912,
+      "gpuSpeed4" : 914,
+      "gpuSpeed5" : 914,
+      "gpuSpeed6" : 912,
+      "gpuSpeed7" : 912,
+      "gpuSpeed8" : 913,
+      "gpuSpeed9" : 912,
+      "gpuSpeedCount" : 10,
+      "gpuSpeedDriver" : "25.21.14.1634",
+      "gpuSpeedHorsepower" : 913,
+      "gpuSpeedRenderTargetScale" : 2,
+      "gpuSpeedVendor" : "NVIDIA GeForce GTX 1080 Ti",
+      "gpuSpeedVersion" : 2
+   },
+   "dashboard" : {
+      "enableDashboard" : false
+   },
+   "steamvr" : {
+      "enableHomeApp" : false,
+      "installID" : "6818497801496669353",
+      "mirrorViewGeometry" : "0 0 1080 600",
+      "supersampleScale" : 2
+   },
+   "userinterface" : {
+      "MinimizeToTray" : true,
+      "StatusAlwaysOnTop" : false
+   }
+}

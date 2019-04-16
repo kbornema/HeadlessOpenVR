@@ -1,0 +1,11 @@
+{
+	"driver_lighthouse" : {
+		"disableimu" : false,
+		"usedisambiguation" : "auto",
+		"disambiguationdebug" : 0,
+		"primarybasestation" : 0,
+		"dbhistory" : false,
+		"enableBluetooth" : false,
+		"PowerManagedBaseStations" : ""
+	}
+}
